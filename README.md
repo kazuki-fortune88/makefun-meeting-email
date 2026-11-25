@@ -1,8 +1,8 @@
 # The Meeting That Should Have Been an Email
 
 [![make.fun](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9.svg)](https://make.fun)
-[![Rank](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/<owner>/<repo>/rank.svg)](https://make.fun)
-[![Reward](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/<owner>/<repo>/reward.svg)](https://make.fun)
+[![Rank](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/kazuki-fortune88/makefun-meeting-email/rank.svg)](https://make.fun)
+[![Reward](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/kazuki-fortune88/makefun-meeting-email/reward.svg)](https://make.fun)
 
 > **Note:** `<owner>/<repo>` in the Rank and Reward badge URLs above is a
 > placeholder — the coordinator replaces it with the real GitHub
